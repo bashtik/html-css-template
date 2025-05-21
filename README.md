@@ -1,1 +1,3 @@
-# html-css-template
+# HTML/CSS Template
+
+A simple static webpage template.
